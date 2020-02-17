@@ -1,7 +1,7 @@
 BTCT-TimerCoin
 =====================================
 
-TimerCoin创建于2019/02/22，是一种基于BTC技术的新型电子货币，采用了P2P技术，去中心化，任何人都能够使用它。  
+TimerCoin创建于2019/02/22，是一种基于BTC技术的新型数字币，采用了P2P技术，去中心化，任何人都能够使用它。  
 TimerCoin, founded in February 22, 2019, is a new electronic currency based on BTC technology. It adopts P2P technology and is decentralized. Anyone can use it.
 
 TimerCoin的重要特点：出块时间为10分钟，初始块奖励为100单位，挖矿奖励的数量根据挖掘高度的增加按比例减少，每个新区块的奖励数量都将微量减少。  
